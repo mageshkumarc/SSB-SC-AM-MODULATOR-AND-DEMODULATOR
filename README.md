@@ -1,3 +1,4 @@
+# SSB-SC-AM-MODULATOR-AND-DEMODULATOR
 ## AIM
 
 To write a program to perform SSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
