@@ -1,4 +1,3 @@
-<img width="1199" height="1267" alt="image" src="https://github.com/user-attachments/assets/7bd019ef-0ce2-4fb9-b4a6-5ae8089eeae8" /># SSB-SC-AM-MODULATOR-AND-DEMODULATOR
 ## AIM
 
 To write a program to perform SSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
@@ -133,7 +132,8 @@ plot(t, recovered, 'r');
 xtitle("Recovered Message Signal (After LPF)", "Time (s)", "Amplitude");
 ```
 ## TABULATION
-![Uploading image.png…]()
+<img width="1199" height="1267" alt="image" src="https://github.com/user-attachments/assets/d12f7ccc-a0d1-45df-a78b-1e23a5b87a82" />
+
 
 ## OUTPUT
 <img width="1726" height="983" alt="AC EXP3" src="https://github.com/user-attachments/assets/28246efd-6dfd-4327-8470-628bc27ce2f4" />
